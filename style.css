@@ -1,0 +1,17 @@
+input{
+    margin-top: 50px;
+    margin-left: 500px;
+    width: 300px;
+    height: 50px;
+    font-size: larger;
+}
+button{
+    font-size: larger;
+    width: 100px;
+    height: 53px;
+}
+h1{
+ margin-left: 500px;   
+ width: 200px;
+ box-shadow: 5px 5px 5px;
+}
